@@ -32,12 +32,12 @@
     "karma-phantomjs-launcher": "*",
     "load-grunt-tasks": "^3.1.0",
     "time-grunt": "^1.0.0",
-	"yeoman": "~0.9.1"
+	"yo": "~1.4.7"
   },
   "engines": {
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "node_modules/.bin/yeoman test --verbose"
+    "test": "grunt test"
   }
 }
