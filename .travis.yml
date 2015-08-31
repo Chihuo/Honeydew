@@ -11,3 +11,9 @@ node_js:
 before_script:
   - 'npm install -g bower grunt-cli'
   - 'bower install'
+notifications:
+  email:
+    recipients:
+      - tech@chihuo.org
+    on_success: [change]
+    on_failure: [always]
