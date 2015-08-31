@@ -1,4 +1,4 @@
-# honeydew
+# honeydew ![alt tag](https://travis-ci.org/Chihuo/Honeydew.svg?branch=master)
 
 The Next Food Map App
 
